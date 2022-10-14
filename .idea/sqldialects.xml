@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/schema/favourites.sql" dialect="GenericSQL" />
+    <file url="file://$USER_HOME$/OneDrive/Desktop/12 Dev Projects/24 Games Library/gamesdb/members.sql" dialect="PostgreSQL" />
+    <file url="PROJECT" dialect="PostgreSQL" />
+  </component>
+</project>
